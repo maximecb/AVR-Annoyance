@@ -1,10 +1,8 @@
 /*****************************************************************************
 *
-*                               AVR Alarm Clock
-*
-*  This file is part of the AVR Alarm Clock project. The project is
+*  This file is part of the AVR Annoyance project. The project is
 *  distributed at:
-*  https://github.com/maximecb/AVR-Alarm-Clock
+*  https://github.com/maximecb/AVR-Annoyance
 *
 *  Copyright (c) 2012, Maxime Chevalier-Boisvert. All rights reserved.
 *
