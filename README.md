@@ -1,8 +1,8 @@
 AVR-Annoyance
 =============
 
-Device producing screechy high-pitched noises at random intervals.
-Powered by an ATtiny microcontroller.
+Device producing screechy high-pitched noises at random intervals, similar to the "Annoy-a-tron".
+This device is powered by an inexpensive ATtiny microcontroller.
 
 Requirements:
 
@@ -21,9 +21,9 @@ To program into your microcontroller, type:
 
 Testimonials from unwilling, annoyed users:
 
-"What's that sound!?"
-"Maybe it's the printer"
-"I once spent half an hour looking for it, couldn't find it"
+    "What's that sound!?"
+    "Maybe it's the printer"
+    "I once spent half an hour looking for it, couldn't find it"
 
 During tests, the evice is able to operate for over two months drawing power
 from two 3V CR2032 batteries connected in series. After two months of
