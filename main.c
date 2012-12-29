@@ -1,8 +1,8 @@
 /*****************************************************************************
 *
-*  This file is part of the AVR Robot Platform project. The project is
+*  This file is part of the AVR Annoyance project. The project is
 *  distributed at:
-*  https://github.com/maximecb/AVR-Robot-Platform
+*  https://github.com/maximecb/AVR-Annoyance
 *
 *  Copyright (c) 2012, Maxime Chevalier-Boisvert. All rights reserved.
 *
